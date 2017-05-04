@@ -1,0 +1,1 @@
+c:\users\asus\documents\visual studio 2015\Projects\Inventario -Listas dobles\Inventario -Listas dobles\bin\Debug\Inventario -Listas dobles.exe.config
